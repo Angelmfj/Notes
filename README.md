@@ -17,3 +17,14 @@
 * I recommend you use the dictionary of synonyms and antonyms [Thesaurus](https://www.thesaurus.com/)
 # Experiments
 :smiley: :+1: :goat: :computer: :email:
+
+## Keyboard shortcuts
+Shortcuts I frequently use: 
+- Ctrl-C (copy)
+- Ctrl-V (paste)
+- Ctrl-X (cut)
+
+Shortcuts I would like to start using: 
+- Ctrl-A (select all)
+- Ctrl-F ( Search for text)
+- Ctrl-Z (Undo the previous action)
